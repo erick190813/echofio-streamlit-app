@@ -1,0 +1,16 @@
+[theme]
+# Tema verde com variações de tom para remeter à pegada ecológica do EchoFio,
+# mantendo a boa visualização.
+
+primaryColor="#2E7D32"  # Um verde mais profundo para botões e elementos interativos (pode manter ou ajustar)
+# Cor de fundo principal - um verde claro suave
+backgroundColor="#F1F8E9" # Exemplo de um verde pastel muito claro
+
+# Cor de fundo secundário - usado na sidebar, expanders, etc. - um verde levemente mais pronunciado que o fundo principal
+secondaryBackgroundColor="#DCEDC8" # Exemplo de um verde claro um pouco mais escuro
+
+textColor="#1B5E20"      # Um verde escuro para o texto, garantindo legibilidade (pode manter ou ajustar)
+font = "sans serif"     # Opcional: especifique uma fonte
+
+# Cores para elementos de estado (succes, info, warning, error) - Opcional
+# Ajustadas para harmonizar com o tema verde
