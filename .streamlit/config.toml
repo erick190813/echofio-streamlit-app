@@ -4,7 +4,7 @@
 
 primaryColor="#2E7D32"  # Um verde mais profundo para botões e elementos interativos (pode manter ou ajustar)
 # Cor de fundo principal - um verde claro suave
-backgroundColor="#F1F8E9" # Exemplo de um verde pastel muito claro
+backgroundColor="#FFF" # Exemplo de um verde pastel muito claro
 
 # Cor de fundo secundário - usado na sidebar, expanders, etc. - um verde levemente mais pronunciado que o fundo principal
 secondaryBackgroundColor="#DCEDC8" # Exemplo de um verde claro um pouco mais escuro
